@@ -1,0 +1,7 @@
+﻿ID,Teste,Procedimento,Critério,Resultado observado,Status,Limitação
+T01,Integridade da população,Contar registros,500.000,500000,PASSOU,Teste técnico da base sintética; não é evidência sobre a Cosan real.
+T02,Unicidade de identificadores,Contar IDs únicos,500.000,500000,PASSOU,Teste técnico da base sintética.
+T03,Conciliação matemática,Somar saldos finais sintéticos,"R$ 27.243.683.000,00","R$ 27,243,683,000.00",PASSOU,"Saldo-alvo publicado em demonstrações financeiras, p. 18, nota 5.2; conciliação matemática não comprova existência."
+T04,Exceções de vencimento,Identificar vencimentos anteriores a 31/12/2025,Investigar todos os casos,125304,EXCEÇÕES SIMULADAS,Datas e instrumentos são fictícios; nenhuma conclusão real.
+T05,Exceções de confirmação,Identificar marcação de confirmação ausente,Investigar os casos sinalizados,50,EXCEÇÕES SIMULADAS,Nenhuma circularização foi enviada.
+T06,Valores não positivos,Contar saldos finais menores ou iguais a zero,0,0,PASSOU,Teste técnico de integridade.

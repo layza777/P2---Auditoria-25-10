@@ -1,0 +1,14 @@
+{
+  "empresa_referencial": "Cosan S.A.",
+  "exercicio": "2025",
+  "data_base": "31/12/2025",
+  "conta_escolhida": "Caixa e equivalentes de caixa - consolidado",
+  "saldo_publicado_R$_mil": 27243683,
+  "saldo_publicado_R$": 27243683000.0,
+  "registros_sinteticos": 500000,
+  "saldo_sintetico_R$": 27243683000.0,
+  "diferenca_R$": 0.0,
+  "ids_unicos": 500000,
+  "excecoes_didaticas": 125354,
+  "seed": 20261025
+}

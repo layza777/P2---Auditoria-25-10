@@ -1,0 +1,15 @@
+﻿Campo,Definição,Tipo/Formato,Observação
+id_registro_sintetico,Identificador único sintético SYN-000001 etc.,Texto,Gerado pelo script; não corresponde a registro real.
+empresa_referencial,Identifica a entidade usada como referência de saldo.,Texto,Não representa razão auxiliar da Cosan.
+conta_referencial,Conta contábil de referência para o exercício didático.,Texto,Caixa e equivalentes de caixa.
+instituicao_ficticia,Instituição financeira inventada para fins didáticos.,Texto,Nenhum banco real está representado.
+tipo_instrumento_sintetico,Tipo fictício de aplicação ou instrumento.,Texto,Distribuição aleatória com semente fixa.
+data_aplicacao,Data fictícia de aplicação.,AAAA-MM-DD,Gerada aleatoriamente entre 2024 e 2025.
+data_vencimento_sintetica,Data fictícia de vencimento.,AAAA-MM-DD,Datas anteriores à data-base podem gerar exceção didática.
+principal_sintetico_R$,Parcela fictícia de principal.,Decimal R$,Valor sintético calculado para compor o saldo final.
+juros_acumulados_sinteticos_R$,Parcela fictícia de juros acumulados.,Decimal R$,Estimativa sintética aleatória; não é taxa real contratual.
+saldo_final_sintetico_R$,Saldo final de cada registro sintético.,Decimal R$,A soma é ajustada para conciliar exatamente com o saldo publicado.
+confirmacao_externa_simulada,Estado didático de confirmação.,Texto,Não houve circularização real.
+excecao_didatica,Indicador de exceção sintética.,0/1,Usado para demonstrar teste e tratamento de exceções.
+motivo_excecao_didatica,Descrição da exceção sintética.,Texto,Não é constatação real sobre a Cosan.
+origem_dados,Aviso sobre a natureza da base.,Texto,Todos os registros são sintéticos.

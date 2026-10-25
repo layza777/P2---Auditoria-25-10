@@ -1,0 +1,66 @@
+{
+  "project": "Auditoria I — Cosan S.A. 2025",
+  "generated_on": "2026-10-25",
+  "files": [
+    {
+      "path": "README.md",
+      "size_bytes": 2920,
+      "sha256": "4d030e123a6e23b5c5789f29336a1f96158753c867b9dcc4aa7fd0afaf6bb61c"
+    },
+    {
+      "path": "01_Dossie/Dossie_Auditoria_Cosan_2025.pdf",
+      "size_bytes": 69577,
+      "sha256": "52e81fcde204136ad4d69e040189a04a76f9d25c4d88a30e04f2dc83f0a3ee32"
+    },
+    {
+      "path": "03_Base_Sintetica/resumo_conciliacao.json",
+      "size_bytes": 410,
+      "sha256": "a26fc408673b23bec008dff2f6391096cac0c98f194304185f2b5a8c81ae8747"
+    },
+    {
+      "path": "03_Base_Sintetica/amostra_sintetica_400.csv",
+      "size_bytes": 130118,
+      "sha256": "7db4c5342ba54335d84f2b08df07a1818273bc11ac7153d7257ba6cc042501d7"
+    },
+    {
+      "path": "03_Base_Sintetica/dicionario_de_dados.csv",
+      "size_bytes": 1711,
+      "sha256": "ec4fffc706e777fb043ff10b0febc140661d23f4b314e230c8142f4cf6795c04"
+    },
+    {
+      "path": "03_Base_Sintetica/base_caixa_sintetica_500000.csv.gz",
+      "size_bytes": 12872910,
+      "sha256": "97b1517bdc6ef8e305081d5b69930087532461b84bec9eeae6a8f6c5ccdf93f5"
+    },
+    {
+      "path": "03_Base_Sintetica/resultados_testes_sinteticos.csv",
+      "size_bytes": 1050,
+      "sha256": "52af1f6194eafcc2ead93abba7248f67498f6d8ce89db1149a2ecce31271bc27"
+    },
+    {
+      "path": "05_Fontes/registro_de_fontes.csv",
+      "size_bytes": 644,
+      "sha256": "fc0f414d59fecfb0bc9d5682c5c5df18e43fe291f4a12db9fba789853c222437"
+    },
+    {
+      "path": "02_Planilhas/matriz_de_riscos.csv",
+      "size_bytes": 2545,
+      "sha256": "5ade9fb04070a606993b2823c5acff8c367641078366d8372b13eef3c8ca9589"
+    },
+    {
+      "path": "02_Planilhas/matriz_cobertura_normas.csv",
+      "size_bytes": 3091,
+      "sha256": "ba791eb9f2b01409b5a374bed5f018926b80d49e905a2a67347545d96bd10baa"
+    },
+    {
+      "path": "02_Planilhas/Planilha_Auditoria_Cosan_2025.xlsx",
+      "size_bytes": 15594,
+      "sha256": "0a5f39bd0d7ac35c3b7f3fc6f1d5a91eb5aa63e424d2deaa678bef37d74373b2"
+    },
+    {
+      "path": "04_Codigos/gerar_e_testar_base.py",
+      "size_bytes": 4436,
+      "sha256": "9deb9f6b831d7099d177501ef53411cdb45cf0aadfe19256db1a058ea489c723"
+    }
+  ]
+}
