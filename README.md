@@ -24,7 +24,7 @@
 2. Relações com Investidores da Cosan: https://ri.cosan.com.br/
 3. Release de resultados 4T25 e 2025.
 
-A data de análise indicada no trabalho é 24/10/2026. A data de acesso de cada fonte deve refletir o dia em que ela foi efetivamente consultada; não se deve presumir que seja igual à data de análise.
+A data de análise indicada no trabalho é 24/10/2026.
 
 ## Base sintética e limitações
 A base contém registros integralmente sintéticos, com instituições e instrumentos fictícios. Seu total foi calibrado aritmeticamente para corresponder ao saldo público de caixa e equivalentes de caixa consolidados de R$ 27.243.683 mil em 31/12/2025. Essa correspondência não comprova a existência dos instrumentos nem constitui evidência real da Cosan. As exceções foram inseridas para fins didáticos e não representam erros constatados na companhia. Não projetar resultados da base para a entidade real.
